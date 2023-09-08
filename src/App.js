@@ -58,7 +58,7 @@ const App = () =>{
          </div>
          
          ):(
-         <div><h2></h2></div>)
+         <div><h2>No Result</h2></div>)
     }
         
             
